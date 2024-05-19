@@ -36,7 +36,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-This project is based on [mission-quizify](https://github.com/radicalxdev/mission-quizify), developed by [radicalxdev]. We thank them for providing the foundation for this project.
+This project is based on [mission-quizify](https://github.com/radicalxdev/mission-quizify), developed by [radicalxdev].
 
 - [Radical AI](https://www.radicalai.org/) - For providing the challenges and inspiration for this project.
 - [Streamlit](https://streamlit.io/) - For the user-friendly interface development.
