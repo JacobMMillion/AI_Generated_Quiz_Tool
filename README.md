@@ -4,7 +4,7 @@ This project implements a Quiz Builder using various technologies such as Google
 
 ## Description
 
-The Quiz Builder is designed to generate quizzes based on input documents and topics provided by the user. It utilizes machine learning models for text embeddings and leverages Google's Gemini and Vertex AI API for document processing and quiz generation. The project also incorporates Streamlit for the user interface to make it interactive and easy to use.
+The Quiz Builder is designed to generate quizzes based on input documents (PDFs) and topics provided by the user. It utilizes machine learning models for text embeddings and leverages Google's Gemini and Vertex AI API for document processing and quiz generation. Streamlit is used for the user interface to make it interactive and easy to use.
 
 ## Pipeline Overview
 
